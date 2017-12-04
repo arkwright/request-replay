@@ -1,0 +1,23 @@
+{
+  "name": "request-replay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkwright/request-replay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkwright/request-replay/issues"
+  },
+  "homepage": "https://github.com/arkwright/request-replay#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
